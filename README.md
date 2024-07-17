@@ -1,4 +1,4 @@
-1. Reuirements:
+1. Requirements:
 -> ultralytics
 -> opencv
 -> python
